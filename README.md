@@ -14,7 +14,6 @@
   <img alt="spring" src="https://img.shields.io/badge/-spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img alt="springboot" src="https://img.shields.io/badge/-springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="mybatis3" src="https://img.shields.io/badge/-mybatis3-211A1A?style=flat-square&logo=mybatis3&logoColor=white" />
-  <img alt="gradle" src="https://img.shields.io/badge/-gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
   <img alt="apacheMaven" src="https://img.shields.io/badge/-maven-C71A36?style=flat-square&logo=apacheMaven&logoColor=white" />
 </p>
 <p>
